@@ -18,6 +18,11 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/template-1.jpg" width="400px"/>
   <img alt="Desafio Return" title="#DesafioReturn" src="./.github/NLW-return- 2560x1600.png"  width="400px"/>
 </p>
+- Seguir o paradigma mobile first para desenvolver o layout.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/responsive-1.png" width="400px"/>
+  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/responsive-2.gif"  width="400px"/>
+</p>
 
 ### 🚀 Layout
 
@@ -53,11 +58,11 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🧭 Adicionado
 
-- Tarefa
+- Variação de cores
 
 ### 💻 Próximo passo
 
-- Tarefa
+- Hospedar
 
 ---  
 
