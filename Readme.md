@@ -43,8 +43,9 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
-- estrutura em html
-- estilização em css
+#### v1.0-doctor-care
+- estrutura em html: tags semânticas
+- estilização em css: seguindo o mobile first
 - google font com link
 - variáveis no css para as cores
 - unidades fluídas(% e rem) e não fixas(px)
