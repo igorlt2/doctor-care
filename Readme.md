@@ -43,12 +43,22 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
+#### v3.0-doctor-care
+- tarefas
+
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
 - margin-inline: na horizontal: left e right
 - pseudo element: header::before
 - função calc para background
 - o elemento nav e sua animação para exibir e recolher
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-2.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-5.jpg" width="400px">
+</p>
 
 #### v1.0-doctor-care
 - estrutura em html: tags semânticas
@@ -57,14 +67,16 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - variáveis no css para as cores
 - unidades fluídas(% e rem) e não fixas(px)
 - display flex
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-1.jpg" width="400px">
+</p>
 
 ### 😯 Finalizado 
 
 - Construindo a aplicação em versões.
-
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-0.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-1.jpg" height="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-0.jpg" height="400px">
 </p>
 
 ### 🧭 Adicionado
