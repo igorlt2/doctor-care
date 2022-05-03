@@ -7,8 +7,8 @@
     --primary-color: hsl(170, 100%, 26%);
     --headline: hsl(210, 11%, 15%);
     --paragraph: hsl(210, 9%, 31%);
-    --bg-details: #DCE9E2;
-    --bg-header: #00856F;
+    --bg-details: rgb(220, 233, 226, 0.4);
+    --bg-header: rgb(0, 133, 111, 0.8);
 
     font-size: 62.5%;/* 100% = 16px ; 1rem = 10px */
 }
