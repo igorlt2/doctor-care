@@ -43,6 +43,9 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
+#### v2.0-doctor-care
+- tarefa
+
 #### v1.0-doctor-care
 - estrutura em html: tags semânticas
 - estilização em css: seguindo o mobile first
