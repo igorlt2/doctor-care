@@ -16,7 +16,7 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - Utilizar o template do layout a seguir para construir.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/template-1.jpg" width="400px"/>
-  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/NLW-return- 2560x1600.png" />
+  <img alt="Desafio Return" title="#DesafioReturn" src="./.github/NLW-return- 2560x1600.png"  width="400px"/>
 </p>
 
 ### 🚀 Layout
