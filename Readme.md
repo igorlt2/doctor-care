@@ -54,7 +54,6 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - o elemento nav e sua animação para exibir e recolher
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-2.jpg" width="400px">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-5.jpg" width="400px">
