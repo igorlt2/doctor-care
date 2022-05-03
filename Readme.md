@@ -38,8 +38,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 - estrutura em html
 - estilização em css
-- google font com @import
-- lógica em javascript
+- google font com link
+- variáveis no css para as cores
+- unidades fluídas(% e rem) e não fixas(px)
+- display flex
 
 ### 😯 Finalizado 
 

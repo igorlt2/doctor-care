@@ -90,6 +90,8 @@ button {
 
     margin-left: auto;
     margin-right: auto;
+
+    box-shadow: 10px 10px 5px #aaaaaa;
 }
 
 .detail-item h3{    
