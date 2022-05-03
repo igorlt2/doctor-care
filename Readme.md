@@ -44,7 +44,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 ### 🛠 Construindo 
 
 #### v2.0-doctor-care
-- tarefa
+- padding-block: na vertical: top e bottom
+- margin-inline: na horizontal: left e right
+- pseudo element: header::before
+- função calc para background
 
 #### v1.0-doctor-care
 - estrutura em html: tags semânticas
