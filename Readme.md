@@ -56,10 +56,11 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 😯 Finalizado 
 
-- Construindo a primeira etapa.
+- Construindo a aplicação em versões.
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/modo-1.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/modo-0.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/modo-1.jpg" height="400px">
 </p>
 
 ### 🧭 Adicionado
