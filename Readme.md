@@ -1,10 +1,10 @@
+<h3 align="center"> 
+	🚧 Doctor Care 🚀
+</h3> 
+
 <h1 align="center">
     <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/template-1.jpg" />
 </h1>
-
-<h4 align="center"> 
-	🚧 Doctor Care 🚀
-</h4> 
 
 Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
