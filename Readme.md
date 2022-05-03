@@ -48,6 +48,7 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - margin-inline: na horizontal: left e right
 - pseudo element: header::before
 - função calc para background
+- o elemento nav e sua animação para exibir e recolher
 
 #### v1.0-doctor-care
 - estrutura em html: tags semânticas
