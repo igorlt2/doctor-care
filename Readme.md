@@ -43,6 +43,9 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
+#### v4.0-doctor-care
+- Inserir detalhes das tarefas
+
 #### v3.0-doctor-care
 - seção de serviços
 - seção de sobre
