@@ -48,7 +48,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - margin-inline: na horizontal: left e right
 - pseudo element: header::before
 - função calc para background
-- o elemento nav e sua animação para exibir e recolher
+- o elemento nav e sua animação para exibir e recolher no scrollY
+- criar o elemento menu que ocupa do vh no clique do ícone
+- ul { list-style: none } para remover a sinalização da lista
+- 
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
