@@ -55,6 +55,8 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - .menu .button{text-decoration: none;} para remover o sublinhado do link "a"
 - :nth-child(){} irá aplicar os efeitos somente no elemento na posição passada em "n"
 - body.menu-expanded > :not(nav) { display: none; } para sumir com todo o conteúdo do primeiro nível (>) filho do body.menu-expanded.
+- o botão que exibe e esconde o menu através do onclick: adicionar ou remover uma classe com document.body.classList.add("menu-expanded")
+- o scroll do body sobrepõe o conteúdo e não fica no mesmo plano, somando na largura. Assim, não há deslocamento que percebemos no header com a logo: body{ overflow: overlay; }
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
