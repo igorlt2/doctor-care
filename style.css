@@ -15,7 +15,8 @@
 
   --bg-light: hsl(180, 14%, 97%);
 
-  font-size: 62.5%; /* 1rem = 10px */
+  font-size: 62.5%;
+  /* 1rem = 10px */
 
   --nav-height: 7.2rem;
 }
@@ -89,11 +90,12 @@ section header h1 {
 
 section .content p {
   font-weight: 400;
-  font-size: 1.6rem;  
-  line-height: 150%;  
+  font-size: 1.6rem;
+  line-height: 150%;
 
   color: var(--paragraph);
 }
+
 /*=== NAVIGATION =================================*/
 nav {
   display: flex;
@@ -137,7 +139,7 @@ body.menu-expanded {
   overflow: hidden;
 }
 
-body.menu-expanded > :not(nav) {
+body.menu-expanded> :not(nav) {
   visibility: hidden;
 }
 
@@ -171,7 +173,7 @@ body.menu-expanded .menu {
 
   transition: transform 300ms;
   transform: translateY(0);
-  
+
 }
 
 .menu ul:nth-child(1) {
