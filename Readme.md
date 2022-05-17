@@ -89,11 +89,11 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🧭 Adicionado
 
-- Variação de cores
+- Hospedar
 
 ### 💻 Próximo passo
 
-- Hospedar
+- Variação de cores
 
 ---  
 
