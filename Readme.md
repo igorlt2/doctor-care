@@ -43,6 +43,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
+
+#### v5.0-doctor-care
+- inserir uma variável
+
 #### v4.0-doctor-care
 - inserir uma variável hue em root para editar as cores
 - usar essa variável hue nas propriedades fill e stroke no svg
