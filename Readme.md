@@ -43,10 +43,6 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
-#### v5.0-doctor-care
-- Inserir detalhes das tarefas
-
-
 #### v4.0-doctor-care
 - inserir uma variável hue em root para editar as cores
 - usar essa variável hue nas propriedades fill e stroke no svg
@@ -129,8 +125,8 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - display flex
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-0.jpg" height="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-1.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-0.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-1.jpg" height="400px">
 </p>
 
 ### 😯 Finalizado 
