@@ -44,7 +44,24 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 ### 🛠 Construindo 
 
 #### v3.0-doctor-care
-- Seção de Serviços
+- seção de serviços
+- html{scroll-behavior: smooth;} a navegação interna na página com a âncora fazendo um deslisar suave.
+- transition: property, timing-function, delay e duraction
+- efeito do menu cobrindo a viewport e saindo por baixo.
+- library scrollReveal para deslizar e exibir o conteúdo com efeito visual.
+- padronizar a estrutura html
+- tag section
+- adicionar âncora
+- evento de clique no 
+- seção serviços e sobre
+- no css seletor id #services e #about
+- transições é o coração dessa aplicação landing page
+- rolagem suave com smooth scrolling
+- melhorias e correções: sobreposições de elementos e menu
+- manipular objetos com js
+- variáveis 
+- tipos de dados
+- biblioteca de terceiros
 
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
