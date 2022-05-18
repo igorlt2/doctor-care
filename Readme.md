@@ -90,6 +90,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - tipos de dados
 - biblioteca de terceiros
 - Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-9.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-10.jpg" width="400px">
+</p>
 
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
