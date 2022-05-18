@@ -62,6 +62,7 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - error: uncaught referenceError: onScroll is not defined at onScroll. Solução: window.addEventListener("scroll",onScroll)
 - alterar as cores mantendo a composição do layout utilizando a variável hue.
 - alterar a cor das quatro letras da logo, alterando fill e stroke em svg
+- error de não subir o arquivo do css: arquivos externos, imagens, ícones devem ser referenciados com "./"
 
 #### v3.0-doctor-care
 - seção de serviços
