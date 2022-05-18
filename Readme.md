@@ -46,12 +46,58 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 #### v5.0-doctor-care
 - Inserir detalhes das tarefas
 
+
 #### v4.0-doctor-care
-- Inserir detalhes das tarefas
+- inserir uma variável hue em root para editar as cores
+- usar essa variável hue nas propriedades fill e stroke no svg
+- seguindo o paradigma mobile first permite liberar a aplicação para o cliente
+- seção de contato
+- ajustes das imagens
+- padronização de botões .button
+- footer
+- botão de voltar ao topo
+- ajustar o carregamento da função onScroll com addEventListener("event", function(){})
+- mudança nas cores das imagens e ícones com as propriedades fill e stroke só é possível com svg
+- adicionar link para contato via whatsapp com `https://wa.me/5500987654321`
+- definir o tamanho do botão com o padding com referência ao conteúdo (width: fit-content)
+- a transição do hover com .button{transition: background .2s}
+- a tag `a` possui display inline e por isso, margin bottom e top, width e height não são atribuídos. Para resolver, usar display: inline-block
+- inserir a class show no botão back to top quando fazer o scroll com scrollY=550
+- error: uncaught referenceError: onScroll is not defined at onScroll. Solução: window.addEventListener("scroll",onScroll)
+- alterar as cores mantendo a composição do layout utilizando a variável hue.
+- alterar a cor das quatro letras da logo, alterando fill e stroke em svg
+- error de não subir o arquivo do css: arquivos externos, imagens, ícones devem ser referenciados com "./"
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-6.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-7.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-8.jpg" width="400px">
+</p>
 
 #### v3.0-doctor-care
 - seção de serviços
-- seção de sobre
+- html{scroll-behavior: smooth;} a navegação interna na página com a âncora fazendo um deslisar suave.
+- transition: property, timing-function, delay e duraction
+- efeito do menu cobrindo a viewport e saindo por baixo.
+- library scrollReveal para deslizar e exibir o conteúdo com efeito visual.
+- padronizar a estrutura html
+- tag section
+- adicionar âncora
+- evento de clique no 
+- seção serviços e sobre
+- no css seletor id #services e #about
+- transições é o coração dessa aplicação landing page
+- rolagem suave com smooth scrolling
+- melhorias e correções: sobreposições de elementos e menu
+- manipular objetos com js
+- variáveis 
+- tipos de dados
+- biblioteca de terceiros
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-9.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-10.jpg" width="400px">
+</p>
 
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
