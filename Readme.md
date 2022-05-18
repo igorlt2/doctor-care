@@ -46,6 +46,13 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 #### v5.0-doctor-care
 - inserir uma variável
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-11.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-12.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-13.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-14.jpg" width="400px">
+</p>
 
 #### v4.0-doctor-care
 - inserir uma variável hue em root para editar as cores
