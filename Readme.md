@@ -3,7 +3,7 @@
 </h3> 
 
 <h1 align="center">
-    <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/template-1.jpg" />
+    <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/template-1.jpg" />
 </h1>
 
 Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
@@ -15,13 +15,13 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - Desenvolver um site para divulgar a assistência médica com html, css e javascript.
 - Utilizar o template do layout a seguir para construir.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/template-1.jpg" width="400px"/>
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/template-1.jpg" width="400px"/>
   <img alt="Desafio Return" title="#DesafioReturn" src="./.github/NLW-return- 2560x1600.png"  width="400px"/>
 </p>
 - Seguir o paradigma mobile first para desenvolver o layout.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/responsive-2.png" width="400px"/>
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/responsive-1.png" width="400px"/>
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/responsive-2.png" width="400px"/>
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/responsive-1.png" width="400px"/>
   <img alt="Desafio Return" title="#DesafioReturn" src="./.github/responsive-2.gif"  width="400px"/>
   <img alt="Desafio Return" title="#DesafioReturn" src="./.github/breakpoints.gif"  width="400px"/>
 </p>
@@ -48,10 +48,10 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - inserir uma variável
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-11.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-12.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-13.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-14.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-11.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-12.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-13.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-14.jpg" width="400px">
 </p>
 
 #### v4.0-doctor-care
@@ -76,9 +76,9 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - error de não subir o arquivo do css: arquivos externos, imagens, ícones devem ser referenciados com "./"
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-6.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-7.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-8.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-6.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-7.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-8.jpg" width="400px">
 </p>
 
 #### v3.0-doctor-care
@@ -102,8 +102,8 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - biblioteca de terceiros
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-9.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-10.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-9.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-10.jpg" width="400px">
 </p>
 
 #### v2.0-doctor-care
@@ -122,9 +122,9 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - o scroll do body sobrepõe o conteúdo e não fica no mesmo plano, somando na largura. Assim, não há deslocamento que percebemos no header com a logo: body{ overflow: overlay; }
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-5.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-3.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-5.jpg" width="400px">
 </p>
 
 #### v1.0-doctor-care
@@ -136,15 +136,15 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - display flex
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-0.jpg" width="400px">
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-1.jpg" height="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-0.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-1.jpg" height="400px">
 </p>
 
 ### 😯 Finalizado 
 
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
-  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
+  <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
 </p>
 
 ### 🧭 Adicionado
