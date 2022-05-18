@@ -63,6 +63,12 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - alterar as cores mantendo a composição do layout utilizando a variável hue.
 - alterar a cor das quatro letras da logo, alterando fill e stroke em svg
 - error de não subir o arquivo do css: arquivos externos, imagens, ícones devem ser referenciados com "./"
+- Construindo a aplicação em versões.
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-6.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-7.jpg" width="400px">
+  <img alt="Um site para assistência técnica" title="#DoctorCare" src="./.github/model-8.jpg" width="400px">
+</p>
 
 #### v3.0-doctor-care
 - seção de serviços
@@ -83,6 +89,7 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - variáveis 
 - tipos de dados
 - biblioteca de terceiros
+- Construindo a aplicação em versões.
 
 #### v2.0-doctor-care
 - padding-block: na vertical: top e bottom
