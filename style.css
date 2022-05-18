@@ -22,8 +22,8 @@
   --nav-height: 7.2rem;
 }
 
-html {
-  /* chrome://flags/#smooth-scrolling */
+/* chrome://flags/#smooth-scrolling */
+html {  
   scroll-behavior: smooth;
 }
 
@@ -450,7 +450,7 @@ footer .social-links {
   justify-content: flex-start;
 }
 
-/* BACK TO TOP */
+/*=== BACK TO TOP =================================*/
 #backToTopButton {
   position: fixed;
   bottom: 1rem;
