@@ -43,9 +43,19 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🛠 Construindo 
 
-
 #### v5.0-doctor-care
-- inserir uma variável
+- ajustar a estrutura html e css para desktop
+- css grid
+- css flex
+- reestruturar html para ter colunas: col-a e col-b
+- medias queries - breakpoints
+- projeto hospedado no github pages
+- lógicas
+- variáveis com let e const
+- querySelector e getAttribute
+- operador lógico && e de negação !
+- operadores de comparação <= e <=
+- passar argumento para a função
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-11.jpg" width="400px">
@@ -149,11 +159,13 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🧭 Adicionado
 
-- Hospedar
+- Hospedado no Github Pages em Versões
+- Variação de cores na variável hue
 
 ### 💻 Próximo passo
 
-- Variação de cores
+- Criar uma variação desse layout
+- Adicionar novas seções, como a de depoimentos.
 
 ---  
 
