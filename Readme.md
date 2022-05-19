@@ -6,8 +6,6 @@
     <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/template-1.jpg" />
 </h1>
 
-Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
-
 ### 💻 Sobre o projeto
 
 ---
@@ -42,6 +40,8 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 - JavaScript
 
 ### 🛠 Construindo 
+
+---  
 
 #### v5.0-doctor-care
 - ajustar a estrutura html e css para desktop
@@ -152,6 +152,8 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 😯 Finalizado 
 
+---  
+
 - Construindo a aplicação em versões.
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">  
   <img alt="Um site para assistência médica" title="#DoctorCare" src="./.github/model-4.jpg" width="400px">
@@ -159,13 +161,23 @@ Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ### 🧭 Adicionado
 
+---  
+
 - Hospedado no Github Pages em Versões
 - Variação de cores na variável hue
 
 ### 💻 Próximo passo
 
+---  
+
 - Criar uma variação desse layout
 - Adicionar novas seções, como a de depoimentos.
+
+### 💻 Detalhes
+
+---  
+
+Desafios da trilha Origin 💜 da NLW 8 Return da Rocketseat.
 
 ---  
 
